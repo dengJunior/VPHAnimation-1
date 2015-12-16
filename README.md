@@ -7,6 +7,11 @@
 
 #实现方法
 1>view1 实现缩放
+
 2>view2 实现缩放
-3>view3 增加一个layer   (1)绘制 vip 字样
-                        (2)给layer 增加动画
+
+3>view3 增加一个layer  
+
+(1)绘制 vip 字样
+                      
+(2)给layer 增加动画
